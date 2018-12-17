@@ -1,4 +1,5 @@
 # Clima
+<img src="Documentation/Background1.png" alt="drawing" width="200"/>
 ![Background1](Documentation/Background1.png =250x)
 ![Background2](Documentation/Background2.png =250x)
 
