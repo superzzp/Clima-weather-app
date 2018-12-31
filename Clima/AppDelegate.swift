@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  Clima
 //
-//  Created by Angela Yu on 04/09/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Alex Zhang on 29/12/2018.
 //
 
 import UIKit
